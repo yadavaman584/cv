@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html first", "html first", "{54F54376-7148-4E0B-BF15-2324F58436B5}"
+	ProjectSection(SolutionItems) = preProject
+		..\web development\71575322_194860808203783_7886153358688259438_n.jpg = ..\web development\71575322_194860808203783_7886153358688259438_n.jpg
+		contactme.html = contactme.html
+		hobby.html = hobby.html
+		HTMLPage1.html = HTMLPage1.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD12502-DDC0-4B71-8E0A-647E471FC2D9}
+	EndGlobalSection
+EndGlobal
